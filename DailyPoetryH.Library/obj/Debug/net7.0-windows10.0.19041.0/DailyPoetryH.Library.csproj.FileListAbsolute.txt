@@ -1,0 +1,12 @@
+F:\DailyPoetryH\DailyPoetryH.Library\bin\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.deps.json
+F:\DailyPoetryH\DailyPoetryH.Library\bin\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.dll
+F:\DailyPoetryH\DailyPoetryH.Library\bin\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.pdb
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.csproj.AssemblyReference.cache
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.AssemblyInfoInputs.cache
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.AssemblyInfo.cs
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.csproj.CoreCompileInputs.cache
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.dll
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\refint\DailyPoetryH.Library.dll
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\DailyPoetryH.Library.pdb
+F:\DailyPoetryH\DailyPoetryH.Library\obj\Debug\net7.0-windows10.0.19041.0\ref\DailyPoetryH.Library.dll
